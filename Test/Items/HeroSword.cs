@@ -30,7 +30,7 @@ namespace Test.Items
 		public override void SetStaticDefaults()
 		{
 			DisplayName.SetDefault("HeroSword");
-			Tooltip.SetDefault("the Damage IS FUCKED\n" +
+			Tooltip.SetDefault("the Damage IS INSANE\n" +
 "Spheres home on enemies, explode on contact and set enemies on fire");
 		}
 
